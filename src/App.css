@@ -1,0 +1,11 @@
+.fa-star {
+    color: lightgrey;
+    margin-left: 10px;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.fa-star.checked {
+    color: black;
+}
